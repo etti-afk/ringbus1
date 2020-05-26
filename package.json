@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://etti-afk.github.io/ringbus1",
+  "homepage":"https://etti-afk.github.io/ringbus1/",
   "dependencies": {
     "gh-pages":"^2.2.0"
   }
