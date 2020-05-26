@@ -2,7 +2,7 @@
   "name": "movethis",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d site"
   },
